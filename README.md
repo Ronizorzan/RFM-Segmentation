@@ -18,5 +18,6 @@ Esse notebook contém uma análise completa de Vendas exibindo Vendas por Mês, 
 Crescimento Percentual, Acúmulo das Vendas, Análise de Cancelamentos entre outros.
 
 Para esse projeto foi utilizada a biblioteca plotly com gráficos interativos que não é bem
-renderizada no github, portanto se você não conseguir visualizar os gráficos adequadamentevisite esse link
- para visualizar os gráficos corretamente: https://hub.2i2c.mybinder.org/user/ronizorzan-rfm-segmentation-7z0qmpnz/notebooks/AnaliseVendas.ipynb
+renderizada no github, portanto se você não conseguir visualizar os gráficos adequadamente 
+visite o linke abaixo para visualizar o notebook e os gráficos corretamente: 
+https://hub.2i2c.mybinder.org/user/ronizorzan-rfm-segmentation-7z0qmpnz/notebooks/AnaliseVendas.ipynb
